@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1062417373767",
+    "project_id": "grifind-f49d1",
+    "storage_bucket": "grifind-f49d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062417373767:android:eee40ae5f2107cd511ef62",
+        "android_client_info": {
+          "package_name": "com.bangkitcapstone.grifind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062417373767-k0nf4cp9a84qa6io2ej63o7g3aq5r490.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bangkitcapstone.grifind",
+            "certificate_hash": "e26e1b6b5fbbb3e95d04a55b401baf01f6292b1f"
+          }
+        },
+        {
+          "client_id": "1062417373767-bfb0gelis7doimgpbjuamirpq9raavhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxnJ_JgfQlrJyVf8wAydheH_Mb3qW1Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062417373767-bfb0gelis7doimgpbjuamirpq9raavhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
